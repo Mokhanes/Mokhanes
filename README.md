@@ -11,7 +11,7 @@ Student at Nandha Engineering College and Fellow at NXTWave
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Mokhanes_) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mokhanes/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Design.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/https%3A%2F%2Fimg.shields.io%2Fyoutube%2Fchannel%2Fsubscribers%2FUCQf6rl97FvFQ7xd3KL4ORvw)
+- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQf6rl97FvFQ7xd3KL4ORvw)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQf6rl97FvFQ7xd3KL4ORvw)
 
 
