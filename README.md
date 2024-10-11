@@ -29,7 +29,6 @@ Student at Nandha Engineering College and Fellow at NXTWave
 
 ![Mokhanes's Stats](https://github-readme-stats.vercel.app/api?username=Mokhanes&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![Mokhanes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mokhanes&theme=chartreuse-dark&hide_border=true)
-
 ![Mokhanes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokhanes&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mokhanes?theme=dark&font=Roboto&ext=activity)
