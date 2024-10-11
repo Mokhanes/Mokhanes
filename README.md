@@ -1,10 +1,7 @@
 ## Hi there 👋 It's me Mokhanes
 
--🎓 Student at Nandha Engineering College
-     Currently pursuing 3rd year in Electronics and Communication Engineering (ECE).
--🌱 Fellow at NXTWave
-     Exploring the latest in technology, innovation, and hands-on learning through structured programs and projects.
-
+Student at Nandha Engineering College and Fellow at NXTWave
+     
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning DSA
