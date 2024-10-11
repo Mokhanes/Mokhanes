@@ -12,7 +12,8 @@ Student at Nandha Engineering College and Fellow at NXTWave
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Design.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/views/https%3A%2F%2Fimg.shields.io%2Fyoutube%2Fchannel%2Fsubscribers%2FUCQf6rl97FvFQ7xd3KL4ORvw
+)
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
