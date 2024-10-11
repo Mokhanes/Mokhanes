@@ -8,7 +8,7 @@ Student at Nandha Engineering College and Fellow at NXTWave
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://www.flaticon.com/free-icon/twitter_5968830?term=twitter&page=1&position=7&origin=search&related_id=5968830" />](https://x.com/Mokhanes_) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mokhanes/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/Mokhanes_) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mokhanes/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Design.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
