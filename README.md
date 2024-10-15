@@ -27,6 +27,7 @@ Student at Nandha Engineering College and Fellow at NXTWave
 <img height="30" src="https://img.shields.io/badge/Dell-Latitude_7480-007DB8?style=for-the-badge&logo=dell&logoColor=white"/> 
 <img height="30" src="https://img.shields.io/badge/Intel-i7_8th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
+![LinkedIn Stats](https://github-readme-stats.vercel.app/api?username=Mokhanes)
 
 ![Mokhanes's Stats](https://github-readme-stats.vercel.app/api?username=Mokhanes&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![Mokhanes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mokhanes&theme=chartreuse-dark&hide_border=true)
