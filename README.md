@@ -30,7 +30,7 @@ Student at Nandha Engineering College and Fellow at NXTWave
 <img height="30" src="https://img.shields.io/badge/Intel-i7_8th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ### LinkedIn Statistics
-![LinkedIn Posts](https://img.shields.io/badge/Posts-50+-brightgreen)
+![LinkedIn Posts](https://img.shields.io/badge/_LinkedIn-Posts_70+_)
 
 
 ### Github Statistics
