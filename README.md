@@ -30,13 +30,15 @@ Student at Nandha Engineering College and Fellow at NXTWave
 <img height="30" src="https://img.shields.io/badge/Intel-i7_8th_Gen-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 
 ### LinkedIn Statistics
-![LinkedIn Stats](https://github-readme-stats.vercel.app/api?username=Mokhanes)
+![LinkedIn Posts](https://img.shields.io/badge/Posts-50+-brightgreen)
 
 
+### Github Statistics
 ![Mokhanes's Stats](https://github-readme-stats.vercel.app/api?username=Mokhanes&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
 ![Mokhanes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mokhanes&theme=chartreuse-dark&hide_border=true)
 ![Mokhanes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mokhanes&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
+### LeetCode Statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mokhanes?theme=dark&font=Roboto&ext=activity)
 
 [![Mokhanes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mokhanes&bg_color=191417&color=ffffff&line=1dff1a&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
