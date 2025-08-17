@@ -31,7 +31,7 @@ Student at Nandha Engineering College and Fellow at NXTWave
 
 ### LinkedIn Statistics
 ![LinkedIn Posts](https://img.shields.io/badge/LinkedIn%20Posts-100+-blue)
-[![LinkedIn Connections](https://img.shields.io/badge/Connections-350+-brightgreen)](https://www.linkedin.com/in/mokhanes/)
+[![LinkedIn Connections](https://img.shields.io/badge/Connections-500+-brightgreen)](https://www.linkedin.com/in/mokhanes/)
 
 
 ### Github Statistics
